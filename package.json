@@ -43,6 +43,7 @@
     "portscanner": "1.0.0",
     "pty.js": "git://github.com/chjj/pty.js",
     "wd": "^0.3.11",
-    "sinon": "^1.12.2"
+    "sinon": "^1.12.2",
+    "lodash": "^3.1.0"
   }
 }
